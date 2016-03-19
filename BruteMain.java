@@ -37,8 +37,7 @@ public class BruteMain {
    //key =1;
    
   }
-  System.out.println("³¡");
+  System.out.println("Â³Â¡");
  
 } 
-
 }
